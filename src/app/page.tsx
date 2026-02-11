@@ -301,7 +301,7 @@ export default function TicketTailor() {
                 ) : (
                   <>
                     <Wand2 className="w-5 h-5 mr-2" />
-                    Generar Ticket
+                    Generar prompt
                   </>
                 )}
               </Button>
